@@ -31,7 +31,7 @@ This GitHub is where I share my labs, scripts, documentation, and technical walk
 ---
 
 ## 📫 Connect with Me
-- 🌐 [My Portfolio Website](https://www.thesecurebyte.com.com)
+- 🌐 [My Portfolio Website](https://www.thesecurebyte.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/wayne-sewell-95338466/)
 - 📧 Email: maneframewayne@thesecurebyte.com
 
