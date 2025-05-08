@@ -23,7 +23,7 @@ This GitHub is where I share my labs, scripts, documentation, and technical walk
 ---
 
 ## 📂 Featured Projects
-- 🔐 [Active Directory Home Lab](01-README.md) – Windows Server 2022 domain controller with two client machines  
+- 🔐 [Active Directory Home Lab](active-directory-home-lab/01-README.md) – Windows Server 2022 domain controller with two client machines  
 - 🌐 [pfSense Firewall Setup](#) – LAN segmentation, DHCP, NAT, and basic VPN  
 - ⚙️ [PowerShell Scripts Collection](#) – Admin automation tools and audit scripts  
 - 📁 [Documentation & SOPs](#) – Process write-ups and IT best practices
