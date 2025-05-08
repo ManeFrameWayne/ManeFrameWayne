@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wayne Sewell aka ManeframeWayne
 
 🔧 I'm an Aspiring Systems Administrator & Cybersecurity Enthusiasts  
-📜 CompTIA Security+ Certified | 📚 Google IT Support Certificate (in progress)  
+📜 CompTIA Security+ Certified | 📚 Google IT Support Certificate (In progress)  
 🎓 B.S. Cybersecurity Student at Western Governors University (In Progress)  
 
 --- 
